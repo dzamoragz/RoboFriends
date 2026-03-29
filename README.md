@@ -14,14 +14,13 @@ RoboFriends es una aplicación construida con React que muestra un directorio de
 
 React
 JavaScript (ES6+)
-CSS / Tachyons (si usas Tachyons)
+CSS / Tachyons 
 API de Robohash para generar imágenes de robots
-API JSONPlaceholder (si usas datos de usuarios)
 
 
 🚀 Instalación y uso
 1. Clonar el repositorio
-Shellgit clone https://github.com/tu-usuario/robofriends.git
+2. git clone 
 cd robofriends
 3. Instalar dependencias
 Shelnpm install
@@ -29,18 +28,6 @@ Shelnpm install
 Shellnpm start
 La app estará disponible normalmente en:
 http://localhost:3000
-
-📁 Estructura del proyecto
-/src
- ├── components/
- │    ├── Card.js
- │    ├── CardList.js
- │    ├── SearchBox.js
- │    └── Scroll.js
- ├── containers/
- │    └── App.js
- ├── index.js
- ├── robots.js (opcional)
 
 
 ✅ Aprendizajes principales
