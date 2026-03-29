@@ -22,9 +22,9 @@ API de Robohash para generar imágenes de robots
 1. Clonar el repositorio
 2. git clone 
 cd robofriends
-3. Instalar dependencias
-Shelnpm install
-4. Ejecutar el proyecto en modo desarrollo
+3. Instalar dependencias:
+npm install
+4. Ejecutar el proyecto en modo desarrollo:
 npm run dev
 La app estará disponible normalmente en:
 http://localhost:3000
