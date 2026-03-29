@@ -25,7 +25,7 @@ cd robofriends
 3. Instalar dependencias
 Shelnpm install
 4. Ejecutar el proyecto en modo desarrollo
-Shellnpm start
+npm run dev
 La app estará disponible normalmente en:
 http://localhost:3000
 
